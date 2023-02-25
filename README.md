@@ -20,4 +20,14 @@ To use the BMI Calculator Node in your own project, simply clone or download the
 
 ```bash
 npm install
-npm start
+npm start server.js
+```
+This will start the server on port 3000. You can then access the calculator by visiting on your webserver or http://localhost:3000 in your web browser.
+
+## Developer
+
+This project was developed by JashGro. If you have any questions or comments, feel free to contact me at jashgro@yandex.com.
+
+## View Counter
+
+[![View Counter](https://gpvc.arturio.dev/BlackHatDevX/BMI-Calculator-Node)](https://github.com/BlackHatDevX/BMI-Calculator-Node)
