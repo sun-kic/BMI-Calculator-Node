@@ -19,8 +19,9 @@ You can see a live demo of BMI Calculator Node at [https://bmi-calculator-node.o
 To use the BMI Calculator Node in your own project, simply clone or download the repository and run the following commands:
 
 ```bash
-npm install
-npm start server.js
+npm install express
+npm install body-parser
+node server.js
 ```
 This will start the server on port 3000. You can then access the calculator by visiting on your webserver or http://localhost:3000 in your web browser.
 
