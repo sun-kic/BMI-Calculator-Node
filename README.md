@@ -26,8 +26,8 @@ This will start the server on port 3000. You can then access the calculator by v
 
 ## Developer
 
-This project was developed by JashGro. If you have any questions or comments, feel free to contact me at jashgro@yandex.com.
+This project was developed by JashGro. If you have any questions or comments, feel free to contact me at http://bit.ly/jashgro.
 
-## Visitor Counter
+## Profile Visitor Counter
 
 ![Visitor Count](https://profile-counter.glitch.me/BlackHatDevX/count.svg)
