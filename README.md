@@ -28,6 +28,6 @@ This will start the server on port 3000. You can then access the calculator by v
 
 This project was developed by JashGro. If you have any questions or comments, feel free to contact me at jashgro@yandex.com.
 
-## View Counter
+## Visitor Counter
 
-[![View Counter](https://gpvc.arturio.dev/BlackHatDevX/BMI-Calculator-Node)](https://github.com/BlackHatDevX/BMI-Calculator-Node)
+![Visitor Count](https://profile-counter.glitch.me/BlackHatDevX/BMI-Calculator-Node/count.svg)
