@@ -30,4 +30,4 @@ This project was developed by JashGro. If you have any questions or comments, fe
 
 ## Visitor Counter
 
-![Visitor Count](https://profile-counter.glitch.me/BlackHatDevX/BMI-Calculator-Node/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/BlackHatDevX/count.svg)
