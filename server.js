@@ -6,7 +6,7 @@ app.use(bodyParser.urlencoded({extended:true}));
 
 
 // --------------STATIC FILES---------------
-app.use(express.static("public"))
+app.use(express.static(__dirname"/public"))
 
 
 // ------------------GET-------------------
