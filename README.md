@@ -12,7 +12,7 @@ BMI Calculator Node is a simple yet powerful tool for calculating BMI (Body Mass
 
 ## Demo
 
-You can see a live demo of BMI Calculator Node at [bit.ly/BMICalculatorPlusV20](https://bit.ly/BMICalculatorPlusV20). Feel free to test it out and provide feedback.
+You can see a live demo of BMI Calculator Node at [bit.ly/BMICalculatorPlusV20](https://bit.ly/BMICalculatorPlusV2). Feel free to test it out and provide feedback.
 
 ## Usag
 
