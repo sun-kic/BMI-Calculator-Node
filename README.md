@@ -12,9 +12,9 @@ BMI Calculator Node is a simple yet powerful tool for calculating BMI (Body Mass
 
 ## Demo
 
-You can see a live demo of BMI Calculator Node at [https://bmi-calculator-node.onrender.com/](https://bmi-calculator-node.onrender.com/). Feel free to test it out and provide feedback.
+You can see a live demo of BMI Calculator Node at [bit.ly/BMICalculatorPlusV20](https://bit.ly/BMICalculatorPlusV20). Feel free to test it out and provide feedback.
 
-## Usage
+## Usag
 
 To use the BMI Calculator Node in your own project, simply clone or download the repository and run the following commands:
 
