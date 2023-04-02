@@ -3,7 +3,7 @@
 BMI Calculator Node is a simple yet powerful tool for calculating BMI (Body Mass Index) using Node.js, Express.js, and Bootstrap. One of the unique features of this calculator is its ability to automatically detect the input unit (cm, m, or ft) and provide accurate results.
 
 ## Preview
-![mobile-white](https://user-images.githubusercontent.com/91268029/229334981-6e85cc1b-da6a-413d-bc73-330bd2ee907d.png)
+![HiShoot_20230402_115108](https://user-images.githubusercontent.com/91268029/229335870-28f0423e-693e-4b75-a50d-fe2c9890dc0c.png)
 
 
 ## Features
@@ -36,4 +36,5 @@ This project was developed by JashGro. If you have any questions or comments, fe
 ## Profile Visitors
 
 ![Visitor Count](https://profile-counter.glitch.me/BlackHatDevX/count.svg)
+
 
